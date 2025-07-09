@@ -89,9 +89,9 @@ Vendas Totais por Categoria (Todas as Lojas):
 💡 Conclusão:
 Este projeto permite uma visão clara do desempenho de cada loja e das categorias de produtos mais rentáveis. Ele serve como base para decisões estratégicas, como:
 
-- Qual loja vender ou manter
-- Quais categorias impulsionar
-- Ajustar políticas de frete ou marketing por produto
+- Qual loja vender ou manter;
+- Quais categorias impulsionar;
+- Ajustar políticas de frete ou marketing por produto.
 
 ✍️ Autor
 Projeto desenvolvido para fins educacionais com base nos dados do Challenge Data Science da Alura.
