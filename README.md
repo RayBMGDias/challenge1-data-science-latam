@@ -1,5 +1,4 @@
-# challenge1-data-science-latam
-AluraStoreLatam
+### Challenge1-data-science-latam
 
 # 🛒 Análise de Vendas — AluraStore
 Este projeto realiza uma análise exploratória das vendas de quatro lojas da rede **AluraStore**,
