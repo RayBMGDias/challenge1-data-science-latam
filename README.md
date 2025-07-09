@@ -54,7 +54,7 @@ Também foi gerado um agrupamento simples com o total de vendas por categoria co
 ```
 loja.groupby('Categoria do Produto')['Preço'].sum()
 ```
----
+
 📊 Exemplos de Resultados
 
 Faturamento Total de Cada Loja:
@@ -64,7 +64,7 @@ Faturamento Total de Cada Loja:
 |Loja 2	 |R$ 1.488.459,06   |
 |Loja 3	 |R$ 1.464.025,03   |
 |Loja 4  |R$ 1.384.497,58   |
----
+
 Vendas Totais por Categoria (Todas as Lojas):
 | Categoria               | Total Vendido (R$) |
 |-------------------------|--------------------|
@@ -77,11 +77,25 @@ Vendas Totais por Categoria (Todas as Lojas):
 | Utilidades Domésticas   | 227.149,45         |
 | Livros                  | 150.780,86         |
 
----
 
-📌🛠️ Tecnologias Utilizadas
-- Python (Pandas, Matplotlib)
+
+📌🛠️ Tecnologias Utilizadas:
 - Google Colab
+- Python (Pandas,
+          pandas,
+          csv,
+          urllib,
+          Matplotlib)
   
 ---
 
+💡 Conclusão:
+Este projeto permite uma visão clara do desempenho de cada loja e das categorias de produtos mais rentáveis. Ele serve como base para decisões estratégicas, como:
+
+- Qual loja vender ou manter
+- Quais categorias impulsionar
+- Ajustar políticas de frete ou marketing por produto
+
+✍️ Autor
+Projeto desenvolvido para fins educacionais com base nos dados do Challenge Data Science da Alura.
+Rayra Bandeira
