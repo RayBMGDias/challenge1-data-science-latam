@@ -64,6 +64,7 @@ Faturamento Total de Cada Loja:
 |Loja 3	 |R$ 1.464.025,03   |
 |Loja 4  |R$ 1.384.497,58   |
 
+
 Vendas Totais por Categoria (Todas as Lojas):
 | Categoria               | Total Vendido (R$) |
 |-------------------------|--------------------|
@@ -76,7 +77,7 @@ Vendas Totais por Categoria (Todas as Lojas):
 | Utilidades Domésticas   | 227.149,45         |
 | Livros                  | 150.780,86         |
 
-
+---
 
 📌🛠️ Tecnologias Utilizadas:
 - Google Colab
