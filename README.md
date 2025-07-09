@@ -79,10 +79,10 @@ Vendas Totais por Categoria (Todas as Lojas):
 
 ---
 
-📌🛠️ Tecnologias Utilizadas:
+📌🛠️ # Tecnologias Utilizadas:
 - Google Colab
 - Python
-- Bibliotecas: (Pandas, pandas, csv, urllib, Matplotlib)
+- Bibliotecas: (Pandas, csv, urllib, Matplotlib)
   
 ---
 
