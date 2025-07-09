@@ -5,6 +5,10 @@ AluraStoreLatam
 Este projeto realiza uma análise exploratória das vendas de quatro lojas da rede **AluraStore**,
 com base em dados disponibilizados em arquivos `.csv` públicos.
 
+## 🚀 Objetivo
+
+Aplicar conceitos de análise e visualização de dados para identificar, com base em métricas reais, qual loja apresenta o menor desempenho e deve ser vendida. O projeto utiliza bibliotecas nativas do Python e ferramentas amplamente usadas em ciência de dados.
+
 A análise foi feita utilizando **Python**, com bibliotecas como `pandas`, `csv` e `urllib`.
 
 ## 📁 Dados Utilizados
@@ -25,8 +29,7 @@ Cada arquivo contém colunas como:
 - `Quantidade de parcelas`
 - `Data da Compra`
 - `Avaliação`
-
-
+---
 ## 🔍 Análises Realizadas
 
 ### ✅ Faturamento por Loja
@@ -51,7 +54,7 @@ Também foi gerado um agrupamento simples com o total de vendas por categoria co
 ```
 loja.groupby('Categoria do Produto')['Preço'].sum()
 ```
-
+---
 📊 Exemplos de Resultados
 
 Faturamento Total de Cada Loja:
@@ -61,7 +64,7 @@ Faturamento Total de Cada Loja:
 |Loja 2	 |R$ 1.488.459,06   |
 |Loja 3	 |R$ 1.464.025,03   |
 |Loja 4  |R$ 1.384.497,58   |
-
+---
 Vendas Totais por Categoria (Todas as Lojas):
 | Categoria               | Total Vendido (R$) |
 |-------------------------|--------------------|
@@ -75,17 +78,10 @@ Vendas Totais por Categoria (Todas as Lojas):
 | Livros                  | 150.780,86         |
 
 ---
-""")
 
-📌 Requisitos para Execução
-Python 
-Google Colab 
-
-Bibliotecas:
-
-pandas
-
-csv
-
-urllib
+📌🛠️ Tecnologias Utilizadas
+- Python (Pandas, Matplotlib)
+- Google Colab
+  
+---
 
