@@ -53,10 +53,39 @@ loja.groupby('Categoria do Produto')['Preço'].sum()
 ```
 
 📊 Exemplos de Resultados
-Faturamento Total de Cada Loja
+
+Faturamento Total de Cada Loja:
 |  Loja  | Faturamento (R$) |
 |--------|------------------|
 |Loja 1  |R$ 1.534.509,12   |
 |Loja 2	 |R$ 1.488.459,06   |
 |Loja 3	 |R$ 1.464.025,03   |
 |Loja 4  |R$ 1.384.497,58   |
+
+Vendas Totais por Categoria (Todas as Lojas):
+| Categoria               | Total Vendido (R$) |
+|-------------------------|--------------------|
+| Eletrônicos             | 6.519.744,59       |
+| Eletrodomésticos        | 5.358.770,66       |
+| Móveis                  | 2.962.647,31       |
+| Esporte e Lazer         | 575.997,31         |
+| Instrumentos Musicais   | 1.392.820,77       |
+| Brinquedos              | 282.153,90         |
+| Utilidades Domésticas   | 227.149,45         |
+| Livros                  | 150.780,86         |
+
+---
+""")
+
+📌 Requisitos para Execução
+Python 
+Google Colab 
+
+Bibliotecas:
+
+pandas
+
+csv
+
+urllib
+
